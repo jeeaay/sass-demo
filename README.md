@@ -13,7 +13,7 @@ git clone https://github.com/jeeaay/sass-demo.git
 cd sass-demo
 cnpm i
 ```
-## How to use
+## Usage
 
 ### 编译
 
