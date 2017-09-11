@@ -1,0 +1,13 @@
+body {
+  background: #eee;
+  font-size: 12px;
+  color: red; }
+  body p {
+    background: #0982c1; }
+    body p:hover {
+      background: #000; }
+  body a {
+    text-decoration: none; }
+    body a::after {
+      display: block;
+      content: ""; }
